@@ -52,4 +52,4 @@ if(lines % 2 == 1 and lines >= 3 and lines <= 49):
     else:
         fish(lines)
 else:
-    print("error")    
+    print("error")
