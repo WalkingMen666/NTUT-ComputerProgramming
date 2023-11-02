@@ -36,8 +36,8 @@
 6. **Week 06**
     - **[Q21. 梭哈類型](questionDescription/q021.md)**
     - **[Q22. 梭哈比大小](questionDescription/q022.md)**
-    - **[Q23. 撲克牌十點半(2)](questionDescription/q023.md)**
-    **Week 07**  
+    - **[Q23. 撲克牌十點半(2)](questionDescription/q023.md)**  
+7.  **Week 07**  
     - **[Q24. 多玩家十點半下注](questionDescription/q024.md)**
     - **[Q25. 牌型比大小](questionDescription/q025.md)**
 
