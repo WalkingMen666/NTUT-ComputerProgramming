@@ -2,11 +2,11 @@
 
 **北科大 - 計算機程式設計**  
 **教授：郭忠義 教授**  
-**講義：[郭忠義教授自製教材](https://sites.google.com/mail.ntut.edu.tw/jong-yih-kuo)**  
+**講義：[郭忠義教授自製教材](https://sites.google.com/mail.ntut.edu.tw/jong-yih-kuo) | [作業繳交單號](https://140.124.181.25/upload/Login) | [作業繳交雙號](https://140.124.181.26/upload/Login)**  
 
 ## 說明 :
 
-**以下內容包含`第1題`到`第23題`的所有題目及測資**
+**以下內容包含`第1題`到`第25題`的所有題目及測資**
 
 1. **Week 01**
     - **[Q1. 計算成績](questionDescription/q001.md)**
@@ -46,6 +46,4 @@
 **以上說明及程式皆由本人 `彭瑜祐` 撰寫製作，你可以透過以下方式找到我**
 
 + [e-mail](mailto:breezekaka66@gmail.com)
-+ [IG](https://www.instagram.com/breeze._.0816/)
-+ [FaceBook](https://www.facebook.com/profile.php?id=100081836611463)
 + [Discord](https://discord.com/users/723871702228140053)
