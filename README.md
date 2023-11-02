@@ -2,6 +2,7 @@
 
 **北科大 - 計算機程式設計**  
 **教授：郭忠義 教授**  
+**講義：[郭忠義教授自製教材](https://sites.google.com/mail.ntut.edu.tw/jong-yih-kuo)**  
 
 ## 說明 :
 
