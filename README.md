@@ -47,3 +47,7 @@
 
 + [e-mail](mailto:breezekaka66@gmail.com)
 + [Discord](https://discord.com/users/723871702228140053)
++ [IG](https://www.instagram.com/breeze._.0816/)
++ [FaceBook](https://www.facebook.com/profile.php?id=100081836611463)
+
+**因為本人不怎麼會Coding，如果想看到更好的程式寫法可以去看[easn](https://github.com/qazwsxdshb/ntut)的頁面，若發現他不更新了可以用力敲他**
