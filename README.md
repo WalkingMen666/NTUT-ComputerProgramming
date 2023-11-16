@@ -40,7 +40,10 @@
 7.  **Week 07**  
     - **[Q24. 多玩家十點半下注](questionDescription/q024.md)**
     - **[Q25. 牌型比大小](questionDescription/q025.md)**
-
+8. **Week 08**
+    - **[Q26. 疫情分析](questionDescription/q026.md)**
+    - **[Q27. 成對檢查](questionDescription/q027.md)**
+    - **[Q28. 字串操作](questionDescription/q028.md)**
 # 
 
 **以上說明及程式皆由本人 `彭瑜祐` 撰寫製作，你可以透過以下方式找到我**
