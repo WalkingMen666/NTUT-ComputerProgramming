@@ -6,7 +6,7 @@
 
 ## 說明 :
 
-**以下內容包含`第1題`到`第28題`的所有題目及測資**
+**以下內容包含`第1題`到`第31題`的所有題目及測資**
 
 1. **Week 01**
     - **[Q1. 計算成績](questionDescription/q001.md)**
@@ -44,6 +44,10 @@
     - **[Q26. 疫情分析](questionDescription/q026.md)**
     - **[Q27. 成對檢查](questionDescription/q027.md)**
     - **[Q28. 字串操作](questionDescription/q028.md)**
+9. **Week 09**  
+    - **[Q29. 數位電路模擬I](questionDescription/q029.md)**
+    - **[Q30. 數位電路模擬II](questionDescription/q030.md)**
+    - **[Q31. 葛雷碼](questionDescription/q031.md)**
 # 
 
 **以上說明及程式皆由本人 `彭瑜祐` 撰寫製作，你可以透過以下方式找到我**
