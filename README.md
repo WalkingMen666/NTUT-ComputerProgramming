@@ -48,6 +48,9 @@
     - **[Q29. 數位電路模擬I](questionDescription/q029.md)**
     - **[Q30. 數位電路模擬II](questionDescription/q030.md)**
     - **[Q31. 葛雷碼](questionDescription/q031.md)**
+10. **Week 10**  
+    - **[Q32. 迷你數獨](questionDescription/q032.md)**
+    - **[Q33. 無人機距離檢測](questionDescription/q033.md)**
 # 
 
 **以上說明及程式皆由本人 `彭瑜祐` 撰寫製作，你可以透過以下方式找到我**
