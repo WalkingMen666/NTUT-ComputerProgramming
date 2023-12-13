@@ -10,7 +10,7 @@ for i in range(len(posList)):
         pos2 = posList[j][1::]
         dis = ((pos1[0]-pos2[0])**2+(pos1[1]-pos2[1])**2+(pos1[2]-pos2[2])**2)**0.5
         ans.append([posList[i][0]] + [posList[j][0]] + [dis])
-
+print(ans)
 # 針對答案列表的第二項(距離)做排序
 ans = sorted(ans, key = lambda x:x[2])
 

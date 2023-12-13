@@ -51,6 +51,9 @@
 10. **Week 10**  
     - **[Q32. 迷你數獨](questionDescription/q032.md)**
     - **[Q33. 無人機距離檢測](questionDescription/q033.md)**
+11. **Week 12**
+    - **[Q32. 朋友相依關係](questionDescription/q034.md)**
+    - **[Q33. 理想大學](questionDescription/q035.md)**
 # 
 
 **以上說明及程式皆由本人 `彭瑜祐` 撰寫製作，你可以透過以下方式找到我**
