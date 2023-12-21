@@ -54,6 +54,8 @@
 11. **Week 12**
     - **[Q34. 朋友相依關係](questionDescription/q034.md)**
     - **[Q35. 理想大學](questionDescription/q035.md)**
+12. **Week 13**
+    - **[Q36. 部落旅遊](questionDescription/q036.md)**
 # 
 
 **以上說明及程式皆由本人 `彭瑜祐` 撰寫製作，你可以透過以下方式找到我**
