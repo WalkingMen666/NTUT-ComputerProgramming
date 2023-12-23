@@ -15,10 +15,6 @@ def recursion(caveList, start, end, gold, tempAns, finalAns) -> list:
 
 nums, start = input().split()
 caveList = list(list(map(int, input().split())) for _ in range(int(nums)))
-gold = 0
-
-for i in caveList:
-    if(i[0] == int(start)): gold = i[1]
 
 ans = recursion(caveList, int(start), 0, 0, [int(start)], [])
 print(max(ans, key=lambda x:x[-1])[-1])
