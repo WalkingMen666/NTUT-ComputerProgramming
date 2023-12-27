@@ -6,7 +6,7 @@
 
 ## 說明 :
 
-**以下內容包含`第1題`到`第31題`的所有題目及測資**
+**以下內容包含`第1題`到`第40題`的所有題目及測資**
 
 1. **Week 01**
     - **[Q1. 計算成績](questionDescription/q001.md)**
@@ -58,6 +58,9 @@
     - **[Q36. 部落旅遊](questionDescription/q036.md)**
     - **[Q37. 全班學生成績處理](questionDescription/q037.md)**
     - **[Q38. 山洞找黃金](questionDescription/q038.md)**
+13. **Week 14**
+    - **[Q39. 賓果遊戲](questionDescription/q039.md)**
+    - **[Q40. 基因序列](questionDescription/q040.md)**
 # 
 
 **以上說明及程式皆由本人 `彭瑜祐` 撰寫製作，你可以透過以下方式找到我**
