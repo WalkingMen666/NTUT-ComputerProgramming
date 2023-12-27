@@ -9,7 +9,7 @@ searchType = int(input())
 for i in range(len(temp)):
     for j in range(len(temp[i])):
         temp[i][j] = ("".join(temp[i][j])).split(' ')
-        
+
 if(searchType == 0):
     for i in range(len(temp)):
         tempAns = []
